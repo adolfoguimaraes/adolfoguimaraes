@@ -1,4 +1,4 @@
-### Minhas áreas de interesse
+### Atualmente, trabalhando com:
 
 * Machine Learning
 * Visualização de Dados
