@@ -1,8 +1,12 @@
-### Atualmente, trabalhando com:
+### Áreas de Interesse:
 
 * Machine Learning
 * Visualização de Dados
 * Python
+
+### Repositórios
+
+[covid19-sergipe](https://github.com/adolfoguimaraes/covid19-sergipe)
 
 <!--
 **adolfoguimaraes/adolfoguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
