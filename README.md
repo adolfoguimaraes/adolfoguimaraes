@@ -1,8 +1,21 @@
+### Qem sou eu?
+
+🌍 Brasileiro/Nordestino/Sergipano
+📚 Professor e Pesquisador na área de Ciência da Computação
+💻 #python
+❤ Inteligência artificial
+👊 Acredito que a tecnologia (e a Inteligência Artificial) pode e deve ser utilizada em prol da sociedade. 
+
 ### Áreas de Interesse:
 
 * Machine Learning
 * Visualização de Dados
 * Python
+
+### Projetos de Pesquisa em Desenvolvimento
+
+* Aplicação de modelos de aprendizagem de máquina para o auxílio de tarefas do profissional de direito.
+* Processamento de texto para extração de indicadores sociais.
 
 ### Repositórios
 
