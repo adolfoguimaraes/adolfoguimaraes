@@ -1,10 +1,10 @@
 ### Qem sou eu?
 
-* 🌍 Brasileiro/Nordestino/Sergipano
-* 📚 Professor e Pesquisador na área de Ciência da Computação
-* 💻 #python
-* ❤ Inteligência artificial
-* 👊 Acredito que a tecnologia (e a Inteligência Artificial) pode e deve ser utilizada em prol da sociedade. 
+- 🌍 Brasileiro/Nordestino/Sergipano
+- 📚 Professor e Pesquisador na área de Ciência da Computação
+- 💻 #python
+- ❤ Inteligência artificial
+- 👊 Acredito que a tecnologia (e a Inteligência Artificial) pode e deve ser utilizada em prol da sociedade. 
 
 ### Áreas de Interesse:
 
