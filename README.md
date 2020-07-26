@@ -19,14 +19,13 @@
 
 ### Repositórios
 
-[dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados. 
-
 [covid19-sergipe](https://github.com/adolfoguimaraes/covid19-sergipe): repositório com dados da covid-19 coletados a partir dos boletins publicados pela Secretaria Estadual de Sergipe.
 
 [learningpython](https://github.com/adolfoguimaraes/learningpython): curso de fundamentos de programação em Python
 
 
 <!--
+[dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados. 
 **adolfoguimaraes/adolfoguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
