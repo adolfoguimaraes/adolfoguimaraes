@@ -1,4 +1,4 @@
-### Qem sou eu?
+### Quem sou eu?
 
 - 🌍 Brasileiro/Nordestino/Sergipano
 - 📚 Professor e Pesquisador na área de Ciência da Computação
