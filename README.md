@@ -17,7 +17,14 @@
 * Aplicação de modelos de aprendizagem de máquina para o auxílio de tarefas do profissional de direito.
 * Processamento de texto para extração de indicadores sociais.
 
-### Repositórios
+### Links
+
+- [Currículo Lattes](http://lattes.cnpq.br/7518156687926782)
+- [Twitter](https://twitter.com/adolfoguimaraes)
+- [Instagram](https://instagram.com/profadolfoguimaraes)
+- [LinkedIn](https://www.linkedin.com/in/adolfoguimaraes/)
+
+### Principais repositórios
 
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
 
