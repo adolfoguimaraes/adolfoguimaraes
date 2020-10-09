@@ -28,10 +28,11 @@
 
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
 
-[covid19-sergipe](https://github.com/adolfoguimaraes/covid19-sergipe): repositório com dados da covid-19 coletados a partir dos boletins publicados pela Secretaria Estadual de Sergipe.
-
 [learningpython](https://github.com/adolfoguimaraes/learningpython): curso de fundamentos de programação em Python
 
+### Outros links 
+
+[Dashboard da COVID-19: Brasil e Sergipe](https://covid19.data2learning.com)
 
 <!--
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados. 
