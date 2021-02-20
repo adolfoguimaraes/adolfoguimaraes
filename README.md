@@ -9,6 +9,7 @@
 ### Áreas de Interesse:
 
 * Machine Learning
+* Ciência dos Dados
 * Visualização de Dados
 * Python
 
@@ -25,6 +26,8 @@
 - [LinkedIn](https://www.linkedin.com/in/adolfoguimaraes/)
 
 ### Principais repositórios
+
+[covid19_vacinacao](https://github.com/adolfoguimaraes/covid19_vacinacao): repositório com os scripts de processamento dos arquivos relacionados à vacinação da Covid-19.
 
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
 
