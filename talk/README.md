@@ -1,7 +1,7 @@
 # Palestras 
 
 ## Hello World em IA 
-[Clique aqui para acessar os slides](talk/hello_world_em_ia.pdf)
+[Clique aqui para acessar os slides](hello_world_em_ia.pdf)
 
 Apresentei essa palestra em:
 
@@ -9,7 +9,7 @@ Apresentei essa palestra em:
 
 ---    
 ## Dos Dados à Visualização
-[Clique aqui para acessar os slides](talk/dos_dados_a_visualizacao.pdf)
+[Clique aqui para acessar os slides](dos_dados_a_visualizacao.pdf)
 
 Apresentei essa palestra em:
 
