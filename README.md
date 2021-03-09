@@ -27,15 +27,15 @@
 
 ### Principais repositórios
 
-[covid19_vacinacao](https://github.com/adolfoguimaraes/covid19_vacinacao): repositório com os scripts de processamento dos arquivos relacionados à vacinação da Covid-19.
+- [covid19_vacinacao](https://github.com/adolfoguimaraes/covid19_vacinacao): repositório com os scripts de processamento dos arquivos relacionados à vacinação da Covid-19.
 
-[dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
+- [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
 
-[learningpython](https://github.com/adolfoguimaraes/learningpython): curso de fundamentos de programação em Python
+- [learningpython](https://github.com/adolfoguimaraes/learningpython): curso de fundamentos de programação em Python
 
 ### Palestras 
 
-**Hello World em IA**
+**>> Hello World em IA**
 ([Clique aqui para acessar os slides](talk/hello_world_em_ia.pdf))
 
 Apresentei essa palestra em:
@@ -43,7 +43,7 @@ Apresentei essa palestra em:
 * **22/10/2020** - Semana Nacional de Ciência e Tecnologia do IFS Propriá ([Vídeo](https://www.youtube.com/watch?v=H_xqFoe37p4))
 
 
-**Dos Dados à Visualização**
+**>> Dos Dados à Visualização**
 ([Clique aqui para acessar os slides](talk/dos_dados_a_visualizacao.pdf))
 
 Apresentei essa palestra em:
