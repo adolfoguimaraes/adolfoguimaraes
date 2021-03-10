@@ -6,13 +6,14 @@ Vou atualizar essa página com uma lista de materiais de suporte para estudo de 
 ## Python 
 
 * [Curso de Introdução à Python](https://github.com/adolfoguimaraes/learningpython): Curso básico que fiz para uma disciplina de introdução à Python. Devo começar alimentar esse material com mais coisas relacionadas à DataScience.
+
 * [Free Interactive Learning Python](https://www.learnpython.org/): Curso interativo de Python (você faz no próprio navegador) vai desde do básico até coisas mais avançadas relaciondas à bibliotecas úteis à data science. 
 
 ## Outros Links
 
 * [Guia do Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza): Esse é o repositório com várias dicas para cientista de dados. Ele é feito de forma colaborativa e organizado pelo pessoal do Pizza de Dados (é um podcast da área. Tem disponível nas plataformas de podcast).
 
-* [Guia de Data Science do MIT]((https://www.mit.edu/~amidi/teaching/data-science-tools/)): É uma coleção de tutoriais relacionados à área]
+* [Guia de Data Science do MIT](https://www.mit.edu/~amidi/teaching/data-science-tools/): É uma coleção de tutoriais relacionados à área]
 
 
 * [Intro to Machine Learning da Udacity](https://br.udacity.com/course/intro-to-machine-learning--ud120/): Curso online completo de Machine Learning. É um curso bem completo tanto do ponto de vista prático como teórico. Sempre indico aos meus alunos. É uma boa introdução.
