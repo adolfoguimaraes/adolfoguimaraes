@@ -13,10 +13,10 @@ Vou atualizar essa página com uma lista de materiais de suporte para estudo de 
 
 * [Guia do Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza): Esse é o repositório com várias dicas para cientista de dados. Ele é feito de forma colaborativa e organizado pelo pessoal do Pizza de Dados (é um podcast da área. Tem disponível nas plataformas de podcast).
 
-* [Guia de Data Science do MIT](https://www.mit.edu/~amidi/teaching/data-science-tools/): É uma coleção de tutoriais relacionados à área]
+* [Guia de Data Science do MIT](https://www.mit.edu/~amidi/teaching/data-science-tools/): É uma coleção de tutoriais relacionados à área.
 
 
-* [Intro to Machine Learning da Udacity](https://br.udacity.com/course/intro-to-machine-learning--ud120/): Curso online completo de Machine Learning. É um curso bem completo tanto do ponto de vista prático como teórico. Sempre indico aos meus alunos. É uma boa introdução.
+* [Intro to Machine Learning da Udacity](https://br.udacity.com/course/intro-to-machine-learning--ud120/): Curso online completo de Machine Learning e 0800. É um curso bem completo tanto do ponto de vista prático como teórico. Sempre indico aos meus alunos. É uma boa introdução.
 
 
 * [Microsoft Power BI Para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science): Cursos 0800 de visualização de dados utilizando o PowerBI. Eu não uso o PowerBI, utilizo outra ferramenta para construir as visualizações (a Tableau), mas o PowerBI é uma ferramenta bem utilizada na área.
