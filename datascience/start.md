@@ -27,5 +27,9 @@ Vou atualizar essa página com uma lista de materiais de suporte para estudo de 
 
 * [The Elements of Statistical Learning - Data Mining, Inference and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf): Ainda não olhei direito esse livro, mas em uma primeira passada ele parece ser bem completo. Além disso, ele é disponibilizado pelos autores na web :)
 
+## Vídeos
+
+* [Dos dados à visualização](https://youtu.be/cy8fyrNozNs?t=4790): palestra que dei sobre dados e visualização. No início eu dou um panorama geral sobre as etapas do processo de Data Science. Coloquei o link a partir de 1h19min porque é quando começo a falar, mas antes de mim tem uma palestra sobre inteligência artificial.
+
 
 
