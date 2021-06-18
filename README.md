@@ -53,7 +53,8 @@ Apresentei essa palestra em:
 
 ### Outros links 
 
-[Dashboard da COVID-19: Brasil e Sergipe](https://covid19.data2learning.com)
+* [Dashboard da COVID-19: Brasil e Sergipe](https://covid19.data2learning.com) (_Desenvolvido usando o Tableau_)
+* [Dashboard da COVID-19: Vacinação em Sergipe](https://covid19.data2learning.com) (_Desenvolvido usando D3.js + React_)
 
 <!--
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados. 
