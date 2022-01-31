@@ -15,7 +15,7 @@
 
 ### Projetos de Pesquisa em Desenvolvimento
 
-* Dados Abertos Sergipe: https//github.com/dadosabertossergipe e https://dadosabertossergipe.data2learning.com
+* Dados Abertos Sergipe: https://github.com/dadosabertossergipe e https://dadosabertossergipe.data2learning.com
 
 ### Links
 
