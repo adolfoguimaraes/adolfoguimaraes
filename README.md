@@ -10,13 +10,12 @@
 
 * Machine Learning
 * Ciência dos Dados
-* Visualização de Dados
+* Visualização de Dados (Minhas visualizações: https://observablehq.com/@adolfoguimaraes/visualizacao-de-dados)
 * Python
 
 ### Projetos de Pesquisa em Desenvolvimento
 
-* Aplicação de modelos de aprendizagem de máquina para o auxílio de tarefas do profissional de direito.
-* Processamento de texto para extração de indicadores sociais.
+* Dados Abertos Sergipe: https//github.com/dadosabertossergipe e https://dadosabertossergipe.data2learning.com
 
 ### Links
 
@@ -25,13 +24,6 @@
 - [Instagram](https://instagram.com/profadolfoguimaraes)
 - [LinkedIn](https://www.linkedin.com/in/adolfoguimaraes/)
 
-### Principais repositórios
-
-- [covid19_vacinacao](https://github.com/adolfoguimaraes/covid19_vacinacao): repositório com os scripts de processamento dos arquivos relacionados à vacinação da Covid-19.
-
-- [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados.
-
-- [learningpython](https://github.com/adolfoguimaraes/learningpython): curso de fundamentos de programação em Python
 
 ### Palestras 
 
