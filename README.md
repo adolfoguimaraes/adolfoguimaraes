@@ -6,6 +6,8 @@
 - ❤ Inteligência artificial
 - 👊 Acredito que a tecnologia (e a Inteligência Artificial) pode e deve ser utilizada em prol da sociedade. 
 
+Cursos e Certificações Concluídas: https://www.credly.com/users/adolfo-guimaraes/badges
+
 ### Áreas de Interesse:
 
 * Machine Learning
