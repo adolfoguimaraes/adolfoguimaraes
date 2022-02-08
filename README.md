@@ -6,8 +6,6 @@
 - ❤ Inteligência artificial
 - 👊 Acredito que a tecnologia (e a Inteligência Artificial) pode e deve ser utilizada em prol da sociedade. 
 
-Cursos e Certificações Concluídas: https://www.credly.com/users/adolfo-guimaraes/badges
-
 ### Áreas de Interesse:
 
 * Machine Learning
@@ -18,6 +16,10 @@ Cursos e Certificações Concluídas: https://www.credly.com/users/adolfo-guimar
 ### Projetos de Pesquisa em Desenvolvimento
 
 * Dados Abertos Sergipe: https://github.com/dadosabertossergipe e https://dadosabertossergipe.data2learning.com
+
+### Cursos e Certificações Concluídas: 
+
+* Veja os cursos e certificações no link: https://www.credly.com/users/adolfo-guimaraes/badges
 
 ### Links
 
