@@ -15,3 +15,11 @@ Apresentei essa palestra em:
 
 * **27/02/2021** - Aula Multidisciplinar dos Cursos de Sistema de Informação do IFS Lagarto ([Vídeo](https://www.youtube.com/watch?v=cy8fyrNozNs))
 
+# Minicursos
+
+## Coletando, processando e visualizando dados abertos
+([Clique aqui para acessar os slides](minicurso_dados_abertos.pdf))
+
+Apresentei esse minicurso em: 
+
+* **28/10/2021** - ERBASE 2021
