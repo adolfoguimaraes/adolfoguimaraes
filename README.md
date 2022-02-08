@@ -27,9 +27,9 @@ Cursos e Certificações Concluídas: https://www.credly.com/users/adolfo-guimar
 - [LinkedIn](https://www.linkedin.com/in/adolfoguimaraes/)
 
 
-### Palestras 
+### Palestras e Minicursos
 
-**>> Hello World em IA**
+**>> [Palestra] Hello World em IA**
 ([Clique aqui para acessar os slides](talk/hello_world_em_ia.pdf))
 
 Apresentei essa palestra em:
@@ -37,17 +37,19 @@ Apresentei essa palestra em:
 * **22/10/2020** - Semana Nacional de Ciência e Tecnologia do IFS Propriá ([Vídeo](https://www.youtube.com/watch?v=H_xqFoe37p4))
 
 
-**>> Dos Dados à Visualização**
+**>> [Palestra] Dos Dados à Visualização**
 ([Clique aqui para acessar os slides](talk/dos_dados_a_visualizacao.pdf))
 
 Apresentei essa palestra em:
 
 * **27/02/2021** - Aula Multidisciplinar dos Cursos de Sistema de Informação do IFS Lagarto ([Vídeo](https://www.youtube.com/watch?v=cy8fyrNozNs))
 
+**>> [Minicurso] Coletando, processando e visualizando dados abertos**
+([Clique aqui para acessar os slides](talk/minicurso_dados_abertos.pdf)
 
-### Outros links 
+Apresentei esse minicurso em: 
 
-* [Dashboard da COVID-19: Sergipe](https://covid19.data2learning.com) (_Desenvolvido usando D3.js + React_)
+* **28/10/2021** - ERBASE 2021
 
 <!--
 [dataviz](https://github.com/adolfoguimaraes/dataviz): repositório com material produzido durante minha jornada de estudo sobre visualização de dados. 
